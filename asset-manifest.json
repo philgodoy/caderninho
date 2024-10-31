@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caderninho/static/css/main.cb1e8731.css",
+    "main.js": "/caderninho/static/js/main.a20a7701.js",
+    "static/js/453.81f383cb.chunk.js": "/caderninho/static/js/453.81f383cb.chunk.js",
+    "index.html": "/caderninho/index.html",
+    "main.cb1e8731.css.map": "/caderninho/static/css/main.cb1e8731.css.map",
+    "main.a20a7701.js.map": "/caderninho/static/js/main.a20a7701.js.map",
+    "453.81f383cb.chunk.js.map": "/caderninho/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1e8731.css",
+    "static/js/main.a20a7701.js"
+  ]
+}
